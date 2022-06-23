@@ -1,5 +1,4 @@
 #simulate the 31 card game in python
-import random
 #begin by creating a dictionary for a deck of cards
 card_deck = {}
 suits = ["Hearts", "Clubs", "Diamonds", "Spades"]
